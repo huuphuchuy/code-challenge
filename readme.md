@@ -1,10 +1,31 @@
-# 99Tech Code Challenge #1 #
+# 99Tech Code Challenge #1
 
-Note that if you fork this repository, your responses may be publicly linked to this repo.  
-Please submit your application along with the solutions attached or linked.   
+Submission by **Huu Phuc Huy** applying for a **Full-Stack Engineer** role.
 
-It is important that you minimally attempt the problems, even if you do not arrive at a working solution.
+Per the challenge guidelines, the Full-Stack track covers problems **2, 4, 5,
+and 6**. This fork attempts those four; `src/problem1/` and `src/problem3/`
+are left as the original placeholders.
 
-## Submission ##
-You can either provide a link to an online repository, attach the solution in your application, or whichever method you prefer.
-We're cool as long as we can view your solution without any pain.
+## Problems
+
+| #   | Title                  | Category       | Location                                     | Status       |
+| --- | ---------------------- | -------------- | -------------------------------------------- | ------------ |
+| 2   | Fancy Form             | Frontend + FS  | [`src/problem2`](src/problem2)               | ✅ Completed |
+| 4   | Three ways to sum to n | Frontend + FS  | [`src/problem4`](src/problem4)               | ⏳ Pending   |
+| 5   | A Crude Server         | Backend + FS   | [`src/problem5`](src/problem5)               | ⏳ Pending   |
+| 6   | Architecture           | Backend + FS   | [`src/problem6`](src/problem6)               | ⏳ Pending   |
+
+Each problem folder has its own `README.md` with setup, stack, and design
+notes. Start there.
+
+## Running any problem
+
+Every problem is self-contained under its own folder. Typical workflow:
+
+```bash
+cd src/problem2
+npm install
+npm run dev
+```
+
+See the per-problem READMEs for specifics.
