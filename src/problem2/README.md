@@ -1,5 +1,7 @@
 # Problem 2 — Fancy Swap
 
+**Live demo:** <https://problem2-six.vercel.app/>
+
 A currency swap form inspired by modern DEX interfaces (Uniswap, PancakeSwap).
 Users choose two tokens, enter an amount, and see the exchange result computed
 in real time from live token prices.

@@ -10,7 +10,7 @@ are left as the original placeholders.
 
 | #   | Title                  | Category       | Location                                     | Status       |
 | --- | ---------------------- | -------------- | -------------------------------------------- | ------------ |
-| 2   | Fancy Form             | Frontend + FS  | [`src/problem2`](src/problem2)               | ✅ Completed |
+| 2   | Fancy Form             | Frontend + FS  | [`src/problem2`](src/problem2) · [live demo](https://problem2-six.vercel.app/) | ✅ Completed |
 | 4   | Three ways to sum to n | Frontend + FS  | [`src/problem4`](src/problem4)               | ⏳ Pending   |
 | 5   | A Crude Server         | Backend + FS   | [`src/problem5`](src/problem5)               | ⏳ Pending   |
 | 6   | Architecture           | Backend + FS   | [`src/problem6`](src/problem6)               | ⏳ Pending   |
