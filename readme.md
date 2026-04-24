@@ -12,7 +12,7 @@ are left as the original placeholders.
 | --- | ---------------------- | -------------- | -------------------------------------------- | ------------ |
 | 2   | Fancy Form             | Frontend + FS  | [`src/problem2`](src/problem2) · [live demo](https://problem2-six.vercel.app/) | ✅ Completed |
 | 4   | Three ways to sum to n | Backend + FS   | [`src/problem4`](src/problem4)               | ✅ Completed |
-| 5   | A Crude Server         | Backend + FS   | [`src/problem5`](src/problem5)               | ⏳ Pending   |
+| 5   | A Crude Server         | Backend + FS   | [`src/problem5`](src/problem5)               | ✅ Completed |
 | 6   | Architecture           | Backend + FS   | [`src/problem6`](src/problem6)               | ✅ Completed |
 
 Each problem folder has its own `README.md` with setup, stack, and design
