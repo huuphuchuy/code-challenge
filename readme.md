@@ -3,14 +3,15 @@
 Submission by **Huu Phuc Huy** applying for a **Full-Stack Engineer** role.
 
 Per the challenge guidelines, the Full-Stack track covers problems **2, 4, 5,
-and 6**. This fork attempts those four; `src/problem1/` and `src/problem3/`
-are left as the original placeholders.
+and 6**; this fork covers those four plus problem **3** (Frontend track) as a
+bonus. `src/problem1/` is left as the original placeholder.
 
 ## Problems
 
 | #   | Title                  | Category       | Location                                     | Status       |
 | --- | ---------------------- | -------------- | -------------------------------------------- | ------------ |
 | 2   | Fancy Form             | Frontend + FS  | [`src/problem2`](src/problem2) · [live demo](https://problem2-six.vercel.app/) | ✅ Completed |
+| 3   | Messy React            | Frontend       | [`src/problem3`](src/problem3)               | ✅ Completed |
 | 4   | Three ways to sum to n | Backend + FS   | [`src/problem4`](src/problem4)               | ✅ Completed |
 | 5   | A Crude Server         | Backend + FS   | [`src/problem5`](src/problem5)               | ✅ Completed |
 | 6   | Architecture           | Backend + FS   | [`src/problem6`](src/problem6)               | ✅ Completed |
